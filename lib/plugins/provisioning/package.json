@@ -50,7 +50,9 @@
     "abacus-urienv": "file:../../../abacus/lib/utils/urienv",
     "abacus-usage-schemas": "file:../../../abacus/lib/config/schemas",
     "abacus-webapp": "file:../../../abacus/lib/utils/webapp",
+    "abacus-eval": "file:../../../abacus/lib/utils/eval",
     "abacus-yieldable": "file:../../../abacus/lib/utils/yieldable",
+    "bignumber.js": "^2.1.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
